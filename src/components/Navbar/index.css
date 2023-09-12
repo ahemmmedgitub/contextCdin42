@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.nav-container{
+    background-color: #ffffff;
+    border-bottom: 1px solid #bfbfbf;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.home-about-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+}
+.web-logo{
+    height: 60px;
+    width: 60px;
+}
+.theme-logo{
+    height: 30px;
+    width: 30px;
+}
+.list-items{
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 700; 
+    color: #171f46;
+    padding-right: 15px;
+}
+.link-item{
+    list-style-type: none;
+    text-decoration: none;
+}
+.blackBg{
+    background-color:   #333333;
+}
+.text-color{
+    color: #ffffff;
+}
+.btn-img{
+    background-color: transparent;
+    border: none;
+}

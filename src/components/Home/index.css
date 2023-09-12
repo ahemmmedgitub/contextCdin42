@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+.home-logo{
+    width: 130px;
+    height: 120px;
+}
+.home-heading{
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: 700; 
+    color:  #000000;
+}
+.black-color{
+    background-color: #000000;
+}
+.heading-color{
+    color: #ffffff;
+}
